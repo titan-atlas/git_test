@@ -1,2 +1,2 @@
 # git_test
-Git test
+This is first git project!
